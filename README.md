@@ -14,9 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
+
 # 👋 Hi there, I'm Sony  
 
 🎯 **Content Reviewer | Aspiring Front-End Developer | Tech Enthusiast**
+
+</div>
 
 I’m currently working at **Tech Mahindra, Hyderabad**, on a **Google Robotics Process project**.  
 My work involves analyzing and annotating robotic actions to improve automation and AI model accuracy.
