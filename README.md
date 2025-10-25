@@ -42,7 +42,7 @@ My work involves analyzing and annotating robotic actions to improve automation 
 ### 🚀 Learning Goals
 - Build responsive, dynamic web apps using **Angular, React, Nodejs Api, .net core web Apis, Mongodb, Sql**
 - Strengthen understanding of **component-based architecture**
-- Transition into a **Front-End / Angular Developer** role  
+- Transition into a **MEAN-MERN .NETCORE FULL STACK Developer** role  
 
 ---
 
