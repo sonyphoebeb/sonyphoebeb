@@ -52,9 +52,7 @@ My work involves analyzing and annotating robotic actions to improve automation 
 ---
 
 ### 🌍 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/sony-phoebe-93a251289)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/sonyphoebeb)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:sonyphoebebaree@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/sony-phoebe-93a251289)  [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/sonyphoebeb)  [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:sonyphoebebaree@gmail.com)
 
 ---
 
