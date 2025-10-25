@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi there, I'm Sony  
 
-🎯 **Content Reviewer | Aspiring Front-End Developer | Tech Enthusiast**
+🎯 **Content Reviewer | Aspiring MEAN-MERN .NETCORE FULL STACK Developer | Tech Enthusiast**
 
 </div>
 
@@ -40,7 +40,7 @@ My work involves analyzing and annotating robotic actions to improve automation 
 ---
 
 ### 🚀 Learning Goals
-- Build responsive, dynamic web apps using **Angular**
+- Build responsive, dynamic web apps using **Angular, React, Nodejs Api, .net core web Apis, Mongodb, Sql**
 - Strengthen understanding of **component-based architecture**
 - Transition into a **Front-End / Angular Developer** role  
 
