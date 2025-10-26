@@ -102,11 +102,11 @@ My work involves analyzing and annotating robotic actions to improve automation 
 
 <h2> 🧠 Tech Stack </h2>  
 
-*Frontend:* HTML5 | CSS3 | JavaScript (ES6) | TypeScript | Angular | React  
-*Backend:* Node.js | Express.js | .NET Core (Learning)  
-*Database:* MongoDB | MySQL  
-*Tools & Platforms:* Git | GitHub | VS Code | Postman | Vercel | Netlify  
-*Other Skills:* Agile Development | API Integration | RESTful Services  
+<b>Frontend:</b> HTML5 | CSS3 | JavaScript (ES6) | TypeScript | Angular | React  
+<b>Backend:</b> Node.js | Express.js | .NET Core (Learning)  
+<b>Database:</b> MongoDB | MySQL  
+<b>Tools & Platforms:</b> Git | GitHub | VS Code | Postman | Vercel   
+<b>Other Skills:</b> Agile Development | API Integration | RESTful Services  
 
 ---
 
@@ -129,7 +129,7 @@ My work involves analyzing and annotating robotic actions to improve automation 
 
 <h2> 📫 Connect with Me </h2> 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/sony-phoebe-93a251289) [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/sonyphoebeb)  [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:sonyphoebebaree@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sony-phoebe-93a251289)) [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/sonyphoebeb))  [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:sonyphoebebaree@gmail.com)
 
 ---
 
