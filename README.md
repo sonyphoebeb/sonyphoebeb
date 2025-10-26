@@ -90,7 +90,7 @@ My work involves analyzing and annotating robotic actions to improve automation 
 
 ---
 
-<h1> 💫 About Me </h1>  
+<h2> 💫 About Me </h2>  
 
 - 🎓 Currently pursuing a *Full Stack Development* course at MedSquire Technologies (started August 2025)  
 - 💼 Working full-time as a *Content Reviewer* at Tech Mahindra  
