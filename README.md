@@ -100,7 +100,7 @@ My work involves analyzing and annotating robotic actions to improve automation 
 
 ---
 
-# 🧠 Tech Stack  
+<h2> 🧠 Tech Stack </h2>  
 
 *Frontend:* HTML5 | CSS3 | JavaScript (ES6) | TypeScript | Angular | React  
 *Backend:* Node.js | Express.js | .NET Core (Learning)  
@@ -110,7 +110,7 @@ My work involves analyzing and annotating robotic actions to improve automation 
 
 ---
 
-# 🧩 Projects  
+<h2> 🧩 Projects </h2>   
 
 🚧 Currently working on *MobileLabXpress*, a full stack web application being developed under the guidance of my trainer at MedSquire Technologies.  
 - Designed database schema and initialized the project structure in Cursor IDE  
@@ -121,13 +121,13 @@ My work involves analyzing and annotating robotic actions to improve automation 
 
 ---
 
-# 📈 GitHub Stats  
+<h2> 📈 GitHub Stats </h2>   
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonyphoebeb&layout=compact&theme=radical)
 
 ---
 
-# 📫 Connect with Me  
+<h2> 📫 Connect with Me </h2> 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/sony-phoebe-93a251289) [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/sonyphoebeb)  [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:sonyphoebebaree@gmail.com)
 
