@@ -112,17 +112,12 @@ My work involves analyzing and annotating robotic actions to improve automation 
 
 ## 🧩 Projects  
 
-🔹 *Wander with Sky – Travel Companion App*  
-A tourist guide web app helping travelers discover attractions, restaurants, and landmarks.  
-Tech Stack: React, Google Maps API, Rapid API  
-[🔗 View Project](https://github.com/sonyphoebeb/Wander-with-Sky)
+🚧 Currently working on *MobileLabXpress*, a full stack web application being developed under the guidance of my trainer at MedSquire Technologies.  
+- Designed database schema and initialized the project structure in Cursor IDE  
+- Created core modules, components, and routing setup  
+- Upcoming tasks: building front-end logic and API integration  
 
-🔹 *YouTube Transcript Summarizer*  
-A Flask-based web app that generates short summaries from YouTube transcripts.  
-Tech Stack: Python, Flask, NLP APIs  
-[🔗 View Project](https://github.com/sonyphoebeb/Youtube-Transcript-Summarizer)
-
-🔹 (More projects coming soon — stay tuned!)  
+(More projects from my Full Stack course will be added soon!)
 
 ---
 
@@ -136,10 +131,6 @@ Tech Stack: Python, Flask, NLP APIs
 ## 📫 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/sony-phoebe-93a251289) [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/sonyphoebeb)  [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:sonyphoebebaree@gmail.com)
-
-[💼 LinkedIn](https://www.linkedin.com/)  
-[💻 GitHub](https://github.com/sonyphoebeb)  
-✉ *Email:* sonyphoebebaree@gmail.com
 
 ---
 
