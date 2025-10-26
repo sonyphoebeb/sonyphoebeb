@@ -57,3 +57,85 @@ My work involves analyzing and annotating robotic actions to improve automation 
 ---
 
 ⭐ _“Learning never stops — every small step builds a stronger foundation.”_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 👋 Hi, I'm Sony Phoebe  
+
+🌸 *Content Reviewer at Tech Mahindra*  
+💻 *Full Stack Developer Trainee at MedSquire Technologies*  
+🚀 Passionate about building interactive, user-friendly, and scalable web applications  
+
+---
+
+## 💫 About Me  
+
+- 🎓 Currently pursuing a *Full Stack Development* course at MedSquire Technologies (started August 2025)  
+- 💼 Working full-time as a *Content Reviewer* at Tech Mahindra  
+- 💡 Exploring technologies across both *MEAN* and *MERN* stacks  
+- ✨ Love learning new frameworks and continuously improving my coding skills  
+- 🌍 Enjoy exploring new places, reading, and listening to music when I need inspiration  
+
+---
+
+## 🧠 Tech Stack  
+
+*Frontend:* HTML5 | CSS3 | JavaScript (ES6) | TypeScript | Angular | React  
+*Backend:* Node.js | Express.js | .NET Core (Learning)  
+*Database:* MongoDB | MySQL  
+*Tools & Platforms:* Git | GitHub | VS Code | Postman | Vercel | Netlify  
+*Other Skills:* Agile Development | API Integration | RESTful Services  
+
+---
+
+## 🧩 Projects  
+
+🔹 *Wander with Sky – Travel Companion App*  
+A tourist guide web app helping travelers discover attractions, restaurants, and landmarks.  
+Tech Stack: React, Google Maps API, Rapid API  
+[🔗 View Project](https://github.com/sonyphoebeb/Wander-with-Sky)
+
+🔹 *YouTube Transcript Summarizer*  
+A Flask-based web app that generates short summaries from YouTube transcripts.  
+Tech Stack: Python, Flask, NLP APIs  
+[🔗 View Project](https://github.com/sonyphoebeb/Youtube-Transcript-Summarizer)
+
+🔹 (More projects coming soon — stay tuned!)  
+
+---
+
+## 📈 GitHub Stats  
+
+![Sony's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonyphoebeb&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonyphoebeb&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect with Me  
+
+[💼 LinkedIn](https://www.linkedin.com/)  
+[💻 GitHub](https://github.com/sonyphoebeb)  
+✉ *Email:* sonyphoebeb@gmail.com  
+
+---
+
+⭐ “Code. Learn. Build. Repeat.” ⭐
