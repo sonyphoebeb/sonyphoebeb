@@ -135,6 +135,8 @@ Tech Stack: Python, Flask, NLP APIs
 
 ## 📫 Connect with Me  
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/sony-phoebe-93a251289) [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/sonyphoebeb)  [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:sonyphoebebaree@gmail.com)
+
 [💼 LinkedIn](https://www.linkedin.com/)  
 [💻 GitHub](https://github.com/sonyphoebeb)  
 ✉ *Email:* sonyphoebebaree@gmail.com
