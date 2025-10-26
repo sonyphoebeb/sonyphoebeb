@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ---
 
-<h2> 💫 About Me </h2>  
+<h2 style="border-bottom: none;"> 💫 About Me </h2> 
 
 - 🎓 Currently pursuing a *Full Stack Development* course at MedSquire Technologies (started August 2025)  
 - 💼 Working full-time as a *Content Reviewer* at Tech Mahindra  
