@@ -90,7 +90,7 @@ My work involves analyzing and annotating robotic actions to improve automation 
 
 ---
 
-## 💫 About Me  
+# 💫 About Me  
 
 - 🎓 Currently pursuing a *Full Stack Development* course at MedSquire Technologies (started August 2025)  
 - 💼 Working full-time as a *Content Reviewer* at Tech Mahindra  
@@ -100,7 +100,7 @@ My work involves analyzing and annotating robotic actions to improve automation 
 
 ---
 
-## 🧠 Tech Stack  
+# 🧠 Tech Stack  
 
 *Frontend:* HTML5 | CSS3 | JavaScript (ES6) | TypeScript | Angular | React  
 *Backend:* Node.js | Express.js | .NET Core (Learning)  
@@ -110,7 +110,7 @@ My work involves analyzing and annotating robotic actions to improve automation 
 
 ---
 
-## 🧩 Projects  
+# 🧩 Projects  
 
 🚧 Currently working on *MobileLabXpress*, a full stack web application being developed under the guidance of my trainer at MedSquire Technologies.  
 - Designed database schema and initialized the project structure in Cursor IDE  
@@ -121,14 +121,13 @@ My work involves analyzing and annotating robotic actions to improve automation 
 
 ---
 
-## 📈 GitHub Stats  
+# 📈 GitHub Stats  
 
-![Sony's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonyphoebeb&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonyphoebeb&layout=compact&theme=radical)
 
 ---
 
-## 📫 Connect with Me  
+# 📫 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/sony-phoebe-93a251289) [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/sonyphoebeb)  [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:sonyphoebebaree@gmail.com)
 
