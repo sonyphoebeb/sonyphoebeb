@@ -79,12 +79,15 @@ My work involves analyzing and annotating robotic actions to improve automation 
 
 
 <div align="center">
+  
 # 👋 Hi, I'm Sony Phoebe  
 
 🌸 *Content Reviewer at Tech Mahindra*  
 💻 *MEAN-MERN .NETCORE, Full Stack Developer Trainee at MedSquire Technologies*  
 🚀 Passionate about building interactive, user-friendly, and scalable web applications  
+
 </div>
+
 ---
 
 ## 💫 About Me  
