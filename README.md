@@ -137,7 +137,7 @@ Tech Stack: Python, Flask, NLP APIs
 
 [💼 LinkedIn](https://www.linkedin.com/)  
 [💻 GitHub](https://github.com/sonyphoebeb)  
-✉ *Email:* sonyphoebeb@gmail.com  
+✉ *Email:* sonyphoebebaree@gmail.com
 
 ---
 
