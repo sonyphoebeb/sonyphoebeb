@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # 👋 Hi, I'm Sony   
 
 🌸 *Content Reviewer at Tech Mahindra*  
-💻 *MEAN-MERN .NETCORE, Full Stack Developer Trainee at MedSquire Technologies*  
+💻 *MEAN-MERN .NET CORE, Full Stack Developer Trainee at MedSquire Technologies*  
 🚀 Passionate about building interactive, user-friendly, and scalable web applications  
 
 </div>
