@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 # 👋 Hi, I'm Sony   
 
 💼 Content Reviewer at Tech Mahindra  
-💻 Full Stack Developer (MEAN/MERN) at MedSquire Technologies 
-
+💻 Full Stack Developer (MEAN/MERN) at MedSquire Technologies    
 🚀 Passionate about building scalable and user-friendly web applications  
 
 </div>
