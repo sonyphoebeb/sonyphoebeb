@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 💼 Content Reviewer at Tech Mahindra  
 💻 Full Stack Developer (MEAN/MERN) at MedSquire Technologies 
+
 🚀 Passionate about building scalable and user-friendly web applications  
 
 </div>
