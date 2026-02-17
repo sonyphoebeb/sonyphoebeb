@@ -28,11 +28,10 @@ Here are some ideas to get you started:
 
 ## 💫 About Me
 
-- 🎓 Currently pursuing a *Full Stack Development* course at MedSquire Technologies (started August 2025)  
-- 💼 Working full-time as a *Content Reviewer* at Tech Mahindra  
-- 💡 Exploring technologies across both *MEAN* and *MERN* stacks  
-- ✨ Love learning new frameworks and continuously improving my coding skills  
-- 🌍 Enjoy exploring new places, reading, and listening to music when I need inspiration  
+- Full Stack Developer enthusiast currently undergoing professional training at MedSquire Technologies  
+- Working full-time as a Content Reviewer at Tech Mahindra, analyzing and annotating robotics workflow data  
+- Focused on building real-world applications using Angular and Node.js  
+- Continuously learning and improving problem-solving and development skills    
 
 ---
 
