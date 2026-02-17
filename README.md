@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 **Frontend:** HTML5 | CSS3 | JavaScript (ES6) | TypeScript | Angular | React  
 **Backend:** Node.js | Express.js | .NET Core (Learning)  
 **Database:** MongoDB | MySQL  
-**Tools & Platforms:** Git | GitHub | VS Code | Postman | Vercel | dbdiagram.io 
+**Tools & Platforms:** Git | GitHub | VS Code | Postman | Vercel | dbdiagram.io   
 **Concepts:** REST APIs | API Integration | Agile  
 
 ---
