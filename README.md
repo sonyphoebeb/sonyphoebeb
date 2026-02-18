@@ -56,6 +56,10 @@ Here are some ideas to get you started:
 
 ---
 
+## 📅 Daily Progress
+
+---
+
 ## 📫 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sony-phoebe-93a251289)  [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/sonyphoebeb)  [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:sonyphoebebaree@gmail.com)
