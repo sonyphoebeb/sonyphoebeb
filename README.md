@@ -58,6 +58,8 @@ Here are some ideas to get you started:
 
 ## 📅 Daily Progress
 
+### February 2026
+
 ---
 
 ## 📫 Connect with Me  
