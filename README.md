@@ -62,7 +62,8 @@ Here are some ideas to get you started:
 
  - Rewrote and revised LeetCode: Valid Parentheses
  - Practiced LeetCode: 217. Contains Duplicate (using Set)
- - Focused on improving problem-solving with HashSet and Stack concepts
+ - Focused on improving problem-solving with Set and Stack concepts
+ - Applied to 6 jobs
 
 ---
 
