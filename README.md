@@ -61,6 +61,7 @@ Here are some ideas to get you started:
 ### 18 February 2026
 
  - Rewrote and revised LeetCode: Valid Parentheses
+ - Practiced LeetCode: 217. Contains Duplicate (using Set)
 
 ---
 
