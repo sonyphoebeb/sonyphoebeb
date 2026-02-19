@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 ### 19 February 2026
 
  - Practiced LeetCode:
- - Practiced LeetCode: 217. Contains Duplicate (using Set)
+     - Two Sum (HashMap approach)
  - Focused on improving problem-solving with Set and Stack concepts
  - Applied to 6 jobs
 
