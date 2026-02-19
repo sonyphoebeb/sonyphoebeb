@@ -62,6 +62,7 @@ Here are some ideas to get you started:
 
  - Practiced LeetCode:
      - Two Sum (HashMap approach)
+     - Remove Duplicates from Sorted Array 
  - Focused on improving problem-solving with Set and Stack concepts
  - Applied to 6 jobs
 
