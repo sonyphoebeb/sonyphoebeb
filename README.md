@@ -64,7 +64,7 @@ Here are some ideas to get you started:
      - Two Sum (HashMap approach)
      - Remove Duplicates from Sorted Array 
  - Applied to multiple Full Stack Developer job openings
- - Applied to 6 jobs
+ - Completed an Angular quiz to strengthen framework concepts
 
 ---
 
