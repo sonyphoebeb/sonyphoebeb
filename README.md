@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 ### 18 February 2026
 
- - Rewrote and revised LeetCode: Valid Parentheses
+ - Practiced LeetCode:
  - Practiced LeetCode: 217. Contains Duplicate (using Set)
  - Focused on improving problem-solving with Set and Stack concepts
  - Applied to 6 jobs
