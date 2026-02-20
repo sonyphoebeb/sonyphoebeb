@@ -64,6 +64,7 @@ Here are some ideas to get you started:
      - Two Sum (Brute Force approach)
  - Completed a TypeScript quiz to strengthen core concepts
  - Applied to multiple Full Stack Developer job openings
+ - Optimized and explored LinkedIn for better job visibility
 
 ---
 
