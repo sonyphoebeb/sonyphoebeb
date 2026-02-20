@@ -66,6 +66,8 @@ Here are some ideas to get you started:
  - Applied to multiple Full Stack Developer job openings
  - Optimized and explored LinkedIn for better job visibility
 
+🔁 Continuing daily efforts in DSA, TypeScript, and job search to stay consistent and career-focused.
+
 ---
 
 ### 📫 Connect with Me  
