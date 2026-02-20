@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 ## 📅 Daily Progress
 
-### 19 February 2026
+### 20 February 2026
 
  - Practiced LeetCode:
      - Two Sum (HashMap approach)
