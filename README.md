@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 ### 20 February 2026
 
  - Practiced LeetCode:
-     - Two Sum (HashMap approach)
+     - Two Sum (Brute Force approach)
      - Remove Duplicates from Sorted Array 
  - Applied to multiple Full Stack Developer job openings
  - Completed an Angular quiz to strengthen framework concepts
