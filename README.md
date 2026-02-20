@@ -62,8 +62,7 @@ Here are some ideas to get you started:
 
  - Practiced LeetCode:
      - Two Sum (Brute Force approach)
-     - Remove Duplicates from Sorted Array 
- - Applied to multiple Full Stack Developer job openings
+ - Completed a TypeScript quiz to strengthen core concepts
  - Completed an Angular quiz to strengthen framework concepts
 
 ---
