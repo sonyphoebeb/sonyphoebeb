@@ -68,7 +68,7 @@ Here are some ideas to get you started:
      - Business (Service) Layer
      - Repository Layer
  - Implemented API to receive JSON data from the frontend
- - Applied to multiple Full Stack Developer job openings
+ - Successfully tested request/response using Postman
  - Optimized and explored LinkedIn for better job visibility
 
 🔁 Continuing daily efforts in DSA, TypeScript, and job search to stay consistent and career-focused.
