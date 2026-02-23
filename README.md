@@ -70,6 +70,7 @@ Here are some ideas to get you started:
  - Implemented API to receive JSON data from the frontend
  - Successfully tested request/response using Postman
  - Verified end-to-end data flow from frontend to backend
+ - Next Step: Database integration and schema design
 
 🔁 Continuing daily efforts in DSA, TypeScript, and job search to stay consistent and career-focused.
 
