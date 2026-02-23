@@ -64,6 +64,7 @@ Here are some ideas to get you started:
  - Set up backend project structure with layered architecture:
      - Routes
      - Controllers
+     - Models
  - Completed a TypeScript quiz to strengthen core concepts
  - Applied to multiple Full Stack Developer job openings
  - Optimized and explored LinkedIn for better job visibility
