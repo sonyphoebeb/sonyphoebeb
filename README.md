@@ -66,6 +66,7 @@ Here are some ideas to get you started:
      - Controllers
      - Models
      - Business (Service) Layer
+     - Repository Layer
  - Completed a TypeScript quiz to strengthen core concepts
  - Applied to multiple Full Stack Developer job openings
  - Optimized and explored LinkedIn for better job visibility
