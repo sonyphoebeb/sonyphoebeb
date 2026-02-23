@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 ### 22 February 2026
 
- - Practiced LeetCode:
+ - Installed and configured Node.js for the API-EstimApp project
      - Two Sum (Brute Force approach)
  - Completed a TypeScript quiz to strengthen core concepts
  - Applied to multiple Full Stack Developer job openings
