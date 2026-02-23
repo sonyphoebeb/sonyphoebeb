@@ -63,6 +63,7 @@ Here are some ideas to get you started:
  - Installed and configured Node.js for the API-EstimApp project
  - Set up backend project structure with layered architecture:
      - Routes
+     - Controllers
  - Completed a TypeScript quiz to strengthen core concepts
  - Applied to multiple Full Stack Developer job openings
  - Optimized and explored LinkedIn for better job visibility
