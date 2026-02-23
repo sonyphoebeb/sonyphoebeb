@@ -69,7 +69,7 @@ Here are some ideas to get you started:
      - Repository Layer
  - Implemented API to receive JSON data from the frontend
  - Successfully tested request/response using Postman
- - Optimized and explored LinkedIn for better job visibility
+ - Verified end-to-end data flow from frontend to backend
 
 🔁 Continuing daily efforts in DSA, TypeScript, and job search to stay consistent and career-focused.
 
