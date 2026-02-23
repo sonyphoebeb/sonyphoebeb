@@ -72,7 +72,7 @@ Here are some ideas to get you started:
  - Verified end-to-end data flow from frontend to backend
  - Next Step: Database integration and schema design
 
-🔁 Continuing daily efforts in DSA, TypeScript, and job search to stay consistent and career-focused.
+🔁 Continuing to build and improve full-stack development skills through hands-on project development and backend architecture practice.
 
 ---
 
