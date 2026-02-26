@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 #### TCS NQT Preparation
 
  -  Aptitude:
-     - Routes
+     - Completed 2 problems on Time and Work
      - Controllers
      - Models
      - Business (Service) Layer
