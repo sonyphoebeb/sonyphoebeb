@@ -62,8 +62,7 @@ Here are some ideas to get you started:
 
 #### TCS NQT Preparation
 
- - Installed and configured Node.js for the API-EstimApp project
- - Set up backend project structure with layered architecture:
+ -  Aptitude:
      - Routes
      - Controllers
      - Models
