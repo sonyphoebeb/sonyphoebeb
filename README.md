@@ -66,10 +66,8 @@ Here are some ideas to get you started:
      - Completed 2 problems on Time and Work
      - Focused on efficiency-based approach
      - Reduced solving time using formula shortcuts
- - Implemented API to receive JSON data from the frontend
- - Successfully tested request/response using Postman
- - Verified end-to-end data flow from frontend to backend
- - Next Step: Database integration and schema design
+ - Preparation Strategy
+     - Watched 2–3 roadmap videos for TCS NQT preparation
 
 🔁 Continuing to build and improve full-stack development skills through hands-on project development and backend architecture practice.
 
