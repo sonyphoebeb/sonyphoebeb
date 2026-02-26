@@ -59,7 +59,6 @@ Here are some ideas to get you started:
 ## 📅 Daily Progress
 
 ### 📅 26-02-2026
-
 #### TCS NQT Preparation
 
  -  Aptitude:
@@ -69,6 +68,7 @@ Here are some ideas to get you started:
  - Preparation Strategy
      - Watched 2–3 roadmap videos for TCS NQT preparation
      - Identified important aptitude and coding topics to focus on
+     - Created a structured study approach for upcoming days
 
 🔁 Continuing to build and improve full-stack development skills through hands-on project development and backend architecture practice.
 
