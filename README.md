@@ -65,9 +65,7 @@ Here are some ideas to get you started:
  -  Aptitude:
      - Completed 2 problems on Time and Work
      - Focused on efficiency-based approach
-     - Models
-     - Business (Service) Layer
-     - Repository Layer
+     - Reduced solving time using formula shortcuts
  - Implemented API to receive JSON data from the frontend
  - Successfully tested request/response using Postman
  - Verified end-to-end data flow from frontend to backend
