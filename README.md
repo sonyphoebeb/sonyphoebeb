@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
  -  Aptitude:
      - Completed 2 problems on Time and Work
-     - Controllers
+     - Focused on efficiency-based approach
      - Models
      - Business (Service) Layer
      - Repository Layer
