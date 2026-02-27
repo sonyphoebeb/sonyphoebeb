@@ -67,7 +67,7 @@ Here are some ideas to get you started:
  - Preparation Strategy
      - Watched 2–3 roadmap videos for TCS NQT preparation
      - Identified frequently asked aptitude and coding questions
-     - Created a structured study approach for upcoming days
+     - Strengthened exam strategy planning
 
 🔁 Continuing to build and improve full-stack development skills through hands-on project development and backend architecture practice.
 
