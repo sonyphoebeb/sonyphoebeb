@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 #### TCS NQT Preparation
 
  -  Aptitude:
-     - Completed 2 problems on Time and Work
+     - Solved 3 practice problems
      - Focused on efficiency-based approach
      - Reduced solving time using formula shortcuts
  - Preparation Strategy
