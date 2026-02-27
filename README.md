@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
  -  Aptitude:
      - Solved 3 practice problems
-     - Focused on efficiency-based approach
+     - Focused on improving logical approach and calculation speed
      - Reduced solving time using formula shortcuts
  - Preparation Strategy
      - Watched 2–3 roadmap videos for TCS NQT preparation
