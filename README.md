@@ -66,7 +66,7 @@ Here are some ideas to get you started:
      - Focused on improving logical approach and calculation speed
  - Preparation Strategy
      - Watched 2–3 roadmap videos for TCS NQT preparation
-     - Identified important aptitude and coding topics to focus on
+     - Identified frequently asked aptitude and coding questions
      - Created a structured study approach for upcoming days
 
 🔁 Continuing to build and improve full-stack development skills through hands-on project development and backend architecture practice.
