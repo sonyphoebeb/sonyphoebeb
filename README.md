@@ -69,8 +69,6 @@ Here are some ideas to get you started:
      - Identified frequently asked aptitude and coding questions
      - Strengthened exam strategy planning
 
-🔁 Continuing to build and improve full-stack development skills through hands-on project development and backend architecture practice.
-
 ---
 
 ### 📫 Connect with Me  
