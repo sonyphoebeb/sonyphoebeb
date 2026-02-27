@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 ## 📅 Daily Progress
 
-### 📅 26-02-2026
+### 📅 27-02-2026
 #### TCS NQT Preparation
 
  -  Aptitude:
