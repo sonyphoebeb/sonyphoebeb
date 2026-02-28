@@ -58,8 +58,8 @@ Here are some ideas to get you started:
 
 ## 📅 Daily Progress
 
-### 📅 27-02-2026
-#### TCS NQT Preparation
+### 📅 28-02-2026
+#### .NET Learning
 
  -  Aptitude:
      - Solved 3 practice problems
