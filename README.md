@@ -67,9 +67,10 @@ Here are some ideas to get you started:
       - Created and called a static Add() method
     
  - Key Concepts
-     - Watched 2–3 roadmap videos for TCS NQT preparation
-     - Identified frequently asked aptitude and coding questions
-     - Strengthened exam strategy planning
+     - Method declaration
+     - Method invocation
+     - Return types
+     - Console output
 
 ---
 
