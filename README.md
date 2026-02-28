@@ -59,12 +59,12 @@ Here are some ideas to get you started:
 ## 📅 Daily Progress
 
 ### 📅 28-02-2026
-#### .NET Learning
 
-  -Learned about namespace structure
-  - Understood static Main method
-  - Implemented a basic Calculator program
-  - Created and called a static Add() method
+ - .NET Learning
+      -Learned about namespace structure
+      - Understood static Main method
+      - Implemented a basic Calculator program
+      - Created and called a static Add() method
     
  - Key Concepts
      - Watched 2–3 roadmap videos for TCS NQT preparation
