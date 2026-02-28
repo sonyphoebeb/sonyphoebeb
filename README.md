@@ -66,7 +66,7 @@ Here are some ideas to get you started:
   - Implemented a basic Calculator program
   - Created and called a static Add() method
     
- - Preparation Strategy
+ - Key Concepts
      - Watched 2–3 roadmap videos for TCS NQT preparation
      - Identified frequently asked aptitude and coding questions
      - Strengthened exam strategy planning
