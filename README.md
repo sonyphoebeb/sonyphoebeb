@@ -60,10 +60,11 @@ Here are some ideas to get you started:
 
 ### 📅 28-02-2026
 #### .NET Learning
-
- -  Aptitude:
-     - Solved 3 practice problems
-     - Focused on improving logical approach and calculation speed
+    -Learned about namespace structure
+    - Understood static Main method
+    - Implemented a basic Calculator program
+    - Created and called a static Add() method
+    
  - Preparation Strategy
      - Watched 2–3 roadmap videos for TCS NQT preparation
      - Identified frequently asked aptitude and coding questions
