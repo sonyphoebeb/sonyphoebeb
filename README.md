@@ -71,7 +71,9 @@ Here are some ideas to get you started:
      - Identified key sections to focus on (Aptitude, Reasoning, Coding)
   
   - Key Learnings
-  - 
+     - Importance of time management in aptitude tests
+     - Strategies to approach different types of aptitude problems
+     - Overview of preparation strategy for TCS NQT
 
 ---
 
