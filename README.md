@@ -65,7 +65,7 @@ Here are some ideas to get you started:
       - Practiced basic problem-solving techniques
       - Learned shortcuts for solving aptitude questions faster
     
- - Key Concepts
+ - TCS NQT Preparation
      - Method declaration
      - Method invocation
      - Return types
