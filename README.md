@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 ### 📅 09-03-2026
 
- - .NET Learning
+ - Aptitude Preparation
       -Learned about namespace structure
       - Understood static Main method
       - Implemented a basic Calculator program
