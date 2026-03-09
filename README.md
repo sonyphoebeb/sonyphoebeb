@@ -66,10 +66,9 @@ Here are some ideas to get you started:
       - Learned shortcuts for solving aptitude questions faster
     
  - TCS NQT Preparation
-     - Method declaration
-     - Method invocation
-     - Return types
-     - Console output
+     - Watched videos related to TCS NQT exam preparation
+     - Understood exam pattern and important topics
+     - Identified key sections to focus on (Aptitude, Reasoning, Coding)
 
 ---
 
