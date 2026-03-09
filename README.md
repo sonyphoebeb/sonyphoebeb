@@ -61,10 +61,9 @@ Here are some ideas to get you started:
 ### 📅 09-03-2026
 
  - Aptitude Preparation
-      -Learned about namespace structure
-      - Understood static Main method
-      - Implemented a basic Calculator program
-      - Created and called a static Add() method
+      - Watched aptitude preparation videos
+      - Practiced basic problem-solving techniques
+      - Learned shortcuts for solving aptitude questions faster
     
  - Key Concepts
      - Method declaration
