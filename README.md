@@ -71,9 +71,9 @@ Here are some ideas to get you started:
      - Learned useful tips and strategies for attempting the exam
   
   - Key Learnings
-     - Importance of time management in aptitude tests
-     - Strategies to approach different types of aptitude problems
-     - Overview of preparation strategy for TCS NQT
+     - Importance of speed and accuracy in aptitude
+     - Better understanding of TCS NQT exam pattern
+     - Practical tips to manage time during the exam
 
 ---
 
