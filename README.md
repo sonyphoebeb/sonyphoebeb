@@ -66,9 +66,9 @@ Here are some ideas to get you started:
       - Learned shortcuts and time-saving techniques
     
  - TCS NQT Preparation
-     - Watched videos related to TCS NQT exam preparation
-     - Understood exam pattern and important topics
-     - Identified key sections to focus on (Aptitude, Reasoning, Coding)
+     - Watched exam experience videos
+     - Understood real candidate experiences and difficulty level
+     - Learned useful tips and strategies for attempting the exam
   
   - Key Learnings
      - Importance of time management in aptitude tests
