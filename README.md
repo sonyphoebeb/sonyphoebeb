@@ -61,9 +61,9 @@ Here are some ideas to get you started:
 ### 📅 18-03-2026
 
  - Aptitude Preparation
-      - Watched aptitude preparation videos
-      - Practiced basic problem-solving techniques
-      - Learned shortcuts for solving aptitude questions faster
+      - Watched YouTube videos on aptitude topics
+      - Observed different problem-solving approaches
+      - Learned shortcuts and time-saving techniques
     
  - TCS NQT Preparation
      - Watched videos related to TCS NQT exam preparation
