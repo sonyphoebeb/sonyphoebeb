@@ -74,6 +74,8 @@ Here are some ideas to get you started:
      - Importance of speed and accuracy in aptitude
      - Better understanding of TCS NQT exam pattern
      - Practical tips to manage time during the exam
+   
+  Preparation today builds confidence for tomorrow
 
 ---
 
