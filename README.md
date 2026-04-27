@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 
 #### Time Complexity:
 
-O(n) — single loop traversal
+* O(n) — single loop traversal
 
 #### What I found challenging:
 
