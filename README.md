@@ -58,24 +58,14 @@ Here are some ideas to get you started:
 
 ## 📅 Daily Progress Log
 
-### 📅 27-04-2026
+### Topic: Second Maximum Element in an Array
 
- - Aptitude Preparation
-      - Watched YouTube videos on aptitude topics
-      - Observed different problem-solving approaches
-      - Learned shortcuts and time-saving techniques
-    
- - TCS NQT Preparation
-     - Watched exam experience videos
-     - Understood real candidate experiences and difficulty level
-     - Learned useful tips and strategies for attempting the exam
-  
-  - Key Learnings
-     - Importance of speed and accuracy in aptitude
-     - Better understanding of TCS NQT exam pattern
-     - Practical tips to manage time during the exam
-   
-  Preparation today builds confidence for tomorrow
+What I did today:
+
+Implemented logic to find the second largest element in an array
+Practiced handling edge cases (array size < 2)
+Used variables like maxElement and secondMaxElement effectively
+Understood how to update both values in a single loop
 
 ---
 
