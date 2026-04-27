@@ -62,10 +62,10 @@ Here are some ideas to get you started:
 
 What I did today:
 
-Implemented logic to find the second largest element in an array
-Practiced handling edge cases (array size < 2)
-Used variables like maxElement and secondMaxElement effectively
-Understood how to update both values in a single loop
+* Implemented logic to find the second largest element in an array
+* Practiced handling edge cases (array size < 2)
+* Used variables like maxElement and secondMaxElement effectively
+* Understood how to update both values in a single loop
 
 ---
 
