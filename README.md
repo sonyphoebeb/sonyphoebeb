@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 ### Topic: Second Maximum Element in an Array
 
-What I did today:
+#### What I did today:
 
 * Implemented logic to find the second largest element in an array
 * Practiced handling edge cases (array size < 2)
