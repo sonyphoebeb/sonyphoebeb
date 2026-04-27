@@ -67,6 +67,12 @@ Here are some ideas to get you started:
 * Used variables like maxElement and secondMaxElement effectively
 * Understood how to update both values in a single loop
 
+#### Key Learnings:
+
+* Importance of initializing with -Infinity
+* How to track both max and second max in one pass
+* Avoiding common mistakes like duplicate max values
+
 ---
 
 ### 📫 Connect with Me  
