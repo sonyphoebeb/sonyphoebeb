@@ -73,6 +73,15 @@ Here are some ideas to get you started:
 * How to track both max and second max in one pass
 * Avoiding common mistakes like duplicate max values
 
+#### Time Complexity:
+
+O(n) — single loop traversal
+
+#### What I found challenging:
+
+* Correctly updating secondMaxElement when a new max is found
+* Handling cases where elements are equal
+
 ---
 
 ### 📫 Connect with Me  
