@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 ## 📅 Daily Progress Log
 
-### Topic: Second Maximum Element in an Array
+### Topic: Maximum sum of subarray of size k where sum < target
 
 #### What I did today:
 
