@@ -80,33 +80,28 @@ Here are some ideas to get you started:
 * Tracked maximum sum during traversal
 
 #### 🧪 Edge Cases Considered:
-
-Array size equal to k
-Negative numbers in array
-Large values
+* Array size equal to k
+* Negative numbers in array
+* Large values
 
 #### 🧠 Key Takeaways:
-
-Sliding window reduces time complexity from O(n*k) → O(n)
-Avoid recomputation by updating results
-Pattern recognition is important for DSA
+* Sliding window reduces time complexity from O(n*k) → O(n)
+* Avoid recomputation by updating results
+* Pattern recognition is important for DSA
 
 #### 😓 Challenges Faced:
-
-Initially tried recomputing sum every time
-Confusion in understanding i - k
-Difficulty shifting from element-based thinking to window-based thinking
+* Initially tried recomputing sum every time
+* Confusion in understanding i - k
+* Difficulty shifting from element-based thinking to window-based thinking
 
 #### ✅ What I Improved:
-
-Better understanding of window movement
-Ability to dry run efficiently
-Clear grasp of sliding logic
+* Better understanding of window movement
+* Ability to dry run efficiently
+* Clear grasp of sliding logic
 
 #### 🚀 Next Goal:
-
-Apply sliding window with conditions
-Move to variable size window problems
+* Apply sliding window with conditions
+* Move to variable size window problems
 
 ---
 
