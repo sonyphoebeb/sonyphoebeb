@@ -71,15 +71,13 @@ Here are some ideas to get you started:
 * Tracking maximum using Math.max()
 
 #### 💻 Problems Solved:
-
-Maximum Sum of Subarray of Size K
+1. Maximum Sum of Subarray of Size K
 
 #### 🔄 Approach Used:
-
-Calculated initial window sum
-Used loop to slide window across array
-Updated sum efficiently using previous result
-Tracked maximum sum during traversal
+* Calculated initial window sum
+* Used loop to slide window across array
+* Updated sum efficiently using previous result
+* Tracked maximum sum during traversal
 
 #### 🧪 Edge Cases Considered:
 
