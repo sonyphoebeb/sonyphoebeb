@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 ### Topic: Maximum sum of subarray of size k where sum < target
 
-🧠 Concepts Learned:
+#### 🧠 Concepts Learned:
 Difference between brute force and optimized approach
 How to reuse previous computation instead of recalculating
 
@@ -70,30 +70,44 @@ Core idea:
 
 Understanding windowSum = windowSum - arr[i - k] + arr[i]
 Tracking maximum using Math.max()
-💻 Problems Solved:
+
+#### 💻 Problems Solved:
+
 Maximum Sum of Subarray of Size K
-🔄 Approach Used:
+
+#### 🔄 Approach Used:
+
 Calculated initial window sum
 Used loop to slide window across array
 Updated sum efficiently using previous result
 Tracked maximum sum during traversal
-🧪 Edge Cases Considered:
+
+#### 🧪 Edge Cases Considered:
+
 Array size equal to k
 Negative numbers in array
 Large values
-🧠 Key Takeaways:
+
+#### 🧠 Key Takeaways:
+
 Sliding window reduces time complexity from O(n*k) → O(n)
 Avoid recomputation by updating results
 Pattern recognition is important for DSA
-😓 Challenges Faced:
+
+#### 😓 Challenges Faced:
+
 Initially tried recomputing sum every time
 Confusion in understanding i - k
 Difficulty shifting from element-based thinking to window-based thinking
-✅ What I Improved:
+
+#### ✅ What I Improved:
+
 Better understanding of window movement
 Ability to dry run efficiently
 Clear grasp of sliding logic
-🚀 Next Goal:
+
+#### 🚀 Next Goal:
+
 Apply sliding window with conditions
 Move to variable size window problems
 
