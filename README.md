@@ -61,15 +61,14 @@ Here are some ideas to get you started:
 ### Topic: Maximum sum of subarray of size k where sum < target
 
 #### 🧠 Concepts Learned:
-Difference between brute force and optimized approach
-How to reuse previous computation instead of recalculating
+* Difference between brute force and optimized approach
+* How to reuse previous computation instead of recalculating
+* Core idea:
+  
+      “Remove left element, add right element”
 
-Core idea:
-
-“Remove left element, add right element”
-
-Understanding windowSum = windowSum - arr[i - k] + arr[i]
-Tracking maximum using Math.max()
+* Understanding windowSum = windowSum - arr[i - k] + arr[i]
+* Tracking maximum using Math.max()
 
 #### 💻 Problems Solved:
 
