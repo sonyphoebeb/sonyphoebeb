@@ -106,6 +106,18 @@ Here are some ideas to get you started:
 ## 🟢 Problem:
 ### Find sum of array elements
 
+    function sumArray(arr: number[]): number {
+    let sum = 0;
+
+    for (let i = 0; i < arr.length; i++) {
+        sum += arr[i];
+    }
+
+    return sum;
+}
+
+console.log(sumArray([1, 2, 3, 4, 5]));
+
 ---
 
 ### 📫 Connect with Me  
