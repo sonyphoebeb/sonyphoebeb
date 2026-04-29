@@ -103,6 +103,9 @@ Here are some ideas to get you started:
 * Apply sliding window with conditions
 * Move to variable size window problems
 
+## 🟢 Problem:
+### Find sum of array elements
+
 ---
 
 ### 📫 Connect with Me  
