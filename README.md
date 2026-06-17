@@ -54,6 +54,35 @@ Here are some ideas to get you started:
 
 *(More projects from my Full Stack course will be added soon!)*
 
+## 🧩 Projects
+
+### 🚜 Operator & Machine Tracking System (OMTS)
+
+A full-stack web application for managing operators, vehicles, attendance, and location tracking.
+
+* Developed frontend modules using Angular for Users, Roles, Attendance, Vehicles, and Locations
+* Built REST APIs using Node.js, Express.js, and SQL Server
+* Implemented CRUD operations, form validations, and search/filter functionality
+* Integrated location management with latitude, longitude, and address details
+* Worked with SQL Server tables, stored procedures, and API testing using Postman
+
+**Tech Stack:** Angular, TypeScript, Node.js, Express.js, SQL Server, HTML, CSS, Git, Postman
+
+### 🚆 EstimApp – Railway Project Estimation Management System
+
+A full-stack estimation management application used for handling project estimates, LOAs, vendor quotations, and cost planning activities.
+
+* Developed Angular modules for LOA management, estimation items, vendors, and quotations
+* Built REST APIs using Node.js and Express.js for estimation workflows
+* Integrated SQL Server using stored procedures and connection pooling
+* Implemented bulk item processing and estimation record management
+* Added validation, error handling, and API testing using Postman
+
+**Tech Stack:** Angular, TypeScript, Node.js, Express.js, SQL Server, HTML, SCSS, CoreUI, Git, Postman
+
+*(Both projects are ongoing and are being actively enhanced with new features and improvements.)*
+
+
 ---
 
 ## 📅 Daily Progress Log
