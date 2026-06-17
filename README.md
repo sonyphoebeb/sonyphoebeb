@@ -18,9 +18,9 @@ Here are some ideas to get you started:
   
 # 👋 Hi, I'm Sony   
 
-💼 Quality Analyst – Robotics Process at Tech Mahindra (Google Project)
-💻 Full Stack Developer (Angular, Node.js, Express.js, SQL Server)
-🚧 Working on enterprise applications including OMTS and EstimApp
+💼 Quality Analyst – Robotics Process at Tech Mahindra (Google Project)    
+💻 Full Stack Developer (Angular, Node.js, Express.js, SQL Server)   
+🚧 Working on enterprise applications including OMTS and EstimApp     
 🚀 Passionate about building scalable, user-friendly web applications and continuously expanding my software development skills
 
 
