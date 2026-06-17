@@ -30,10 +30,11 @@ Here are some ideas to get you started:
 
 ## 💫 About Me
 
-- Full Stack Developer enthusiast currently undergoing professional training at MedSquire Technologies  
-- Working full-time as a Content Reviewer at Tech Mahindra, analyzing and annotating robotics workflow data  
-- Focused on building real-world applications using Angular and Node.js  
-- Continuously learning and improving problem-solving and development skills    
+* Full Stack Developer with hands-on experience in Angular, Node.js, Express.js, and SQL Server
+* Working as a Quality Analyst at Tech Mahindra (Google Project), supporting robotics process operations and data quality workflows
+* Contributing to real-world enterprise applications including OMTS (Operator & Machine Tracking System) and EstimApp (Railway Project Estimation Management System)
+* Experienced in developing REST APIs, database design, stored procedures, and responsive web applications
+* Passionate about problem-solving, continuous learning, and building scalable software solutions  
 
 ---
 
