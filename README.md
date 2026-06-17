@@ -18,9 +18,10 @@ Here are some ideas to get you started:
   
 # 👋 Hi, I'm Sony   
 
-💼 Content Reviewer at Tech Mahindra  
-💻 Full Stack Developer (MEAN/MERN) at MedSquire Technologies    
-🚀 Passionate about building scalable and user-friendly web applications  
+💼 Quality Analyst – Robotics Process at Tech Mahindra (Google Project)
+💻 Full Stack Developer (Angular, Node.js, Express.js, SQL Server)
+🚧 Working on enterprise applications including OMTS and EstimApp
+🚀 Passionate about building scalable, user-friendly web applications and continuously expanding my software development skills
 
 </div>
 
