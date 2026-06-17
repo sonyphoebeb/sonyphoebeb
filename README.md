@@ -38,24 +38,20 @@ Here are some ideas to get you started:
 
 ---
 
-## 🧠 Tech Stack  
+## 🧠 Tech Stack
 
-**Frontend:** HTML5 | CSS3 | JavaScript (ES6) | TypeScript | Angular | React  
-**Backend:** Node.js | Express.js | .NET Core (Learning)  
-**Database:** MongoDB | MySQL  
-**Tools & Platforms:** Git | GitHub | VS Code | Postman | Vercel | dbdiagram.io   
-**Concepts:** REST APIs | API Integration | Agile  
+**Frontend:** Angular, TypeScript, JavaScript, HTML5, CSS3, SCSS
+
+**Backend:** Node.js, Express.js, REST APIs
+
+**Database:** Microsoft SQL Server, Stored Procedures
+
+**Tools:** Git, GitHub, Postman, Angular CLI, VS Code
+
+**Concepts:** CRUD Operations, API Integration, Form Validation, Authentication & Authorization, Database Design, Error Handling
+ 
 
 ---
-
-## 🧩 Projects  
-
-🚧 Currently working on *MobileLabXpress*, a full stack web application being developed under the guidance of my trainer at MedSquire Technologies.  
-- Designed database schema and initialized the project structure in Cursor IDE  
-- Created core modules, components, and routing setup  
-- Upcoming tasks: building front-end logic and API integration  
-
-*(More projects from my Full Stack course will be added soon!)*
 
 ## 🧩 Projects
 
