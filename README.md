@@ -86,66 +86,14 @@ A full-stack estimation management application used for handling project estimat
 
 ## 📅 Daily Progress Log
 
-### Topic: Maximum sum of subarray of size k where sum < target
-
-#### 🧠 Concepts Learned:
-* Difference between brute force and optimized approach
-* How to reuse previous computation instead of recalculating
-* Core idea:
-  
-      “Remove left element, add right element”
-
-* Understanding windowSum = windowSum - arr[i - k] + arr[i]
-* Tracking maximum using Math.max()
-
-#### 💻 Problems Solved:
-1. Maximum Sum of Subarray of Size K
-
-#### 🔄 Approach Used:
-* Calculated initial window sum
-* Used loop to slide window across array
-* Updated sum efficiently using previous result
-* Tracked maximum sum during traversal
-
-#### 🧪 Edge Cases Considered:
-* Array size equal to k
-* Negative numbers in array
-* Large values
-
-#### 🧠 Key Takeaways:
-* Sliding window reduces time complexity from O(n*k) → O(n)
-* Avoid recomputation by updating results
-* Pattern recognition is important for DSA
-
-#### 😓 Challenges Faced:
-* Initially tried recomputing sum every time
-* Confusion in understanding i - k
-* Difficulty shifting from element-based thinking to window-based thinking
-
-#### ✅ What I Improved:
-* Better understanding of window movement
-* Ability to dry run efficiently
-* Clear grasp of sliding logic
-
-#### 🚀 Next Goal:
-* Apply sliding window with conditions
-* Move to variable size window problems
-
-## 🟢 Problem:
-### Find sum of array elements
-
-    function sumArray(arr: number[]): number {
-    let sum = 0;
-
-    for (let i = 0; i < arr.length; i++) {
-        sum += arr[i];
-    }
-
-    return sum;
-}
-
-console.log(sumArray([1, 2, 3, 4, 5]));
-
+Topic: Job Applications & Professional Development
+🧠 Activities Completed:
+Updated and improved my resume with current project experience.
+Applied for Full Stack Developer opportunities through:
+LinkedIn
+Naukri
+Hirist
+Solved coding and logical reasoning puzzles on LinkedIn to strengthen problem-solving skills.
 ---
 
 ### 📫 Connect with Me  
