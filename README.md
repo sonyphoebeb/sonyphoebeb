@@ -90,43 +90,9 @@ A full-stack estimation management application used for handling project estimat
 
 #### Today's Accomplishments
 
-* Updated and improved my resume with current project experience.
-* Applied for Full Stack Developer opportunities through:
-
-  * LinkedIn
-  * Naukri
-  * Hirist
-* Solved coding and logical reasoning puzzles on LinkedIn to strengthen problem-solving skills.
-
-#### 💻 Career Progress:
-
-* Applied to multiple Full Stack Developer roles matching my Angular, Node.js, and SQL Server skill set.
-* Optimized my resume and GitHub profile to better showcase enterprise projects (OMTS & EstimApp).
-* Reviewed job descriptions to understand the most in-demand technical skills and requirements.
-
-#### 🧩 Problems Solved:
-
-* Completed LinkedIn coding and logical puzzles.
-* Practiced analytical thinking and problem-solving through puzzle-based challenges.
-
-#### 🎯 Skills Improved:
-
-* Resume optimization
-* Job search strategy
-* Problem-solving
-* Logical reasoning
-* Professional profile enhancement
-
-#### 😓 Challenges Faced:
-
-* Finding roles that closely match my current experience.
-* Tailoring my profile to meet different job requirements.
-
-#### ✅ What I Improved:
-
-* Strengthened my resume by adding real-time project experience.
-* Enhanced my GitHub profile with updated project details and tech stack.
-* Increased exposure by applying to multiple companies across different job portals.
+* Updated my resume with detailed descriptions of OMTS (Operator & Machine Tracking System) and EstimApp (Railway Project Estimation Management System).
+* Enhanced project responsibilities to accurately represent both frontend and backend development work.
+* Learned the difference between Git and GitHub and understood their roles in software development.
 
 #### 🚀 Next Goal:
 
