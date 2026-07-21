@@ -86,20 +86,9 @@ A full-stack estimation management application used for handling project estimat
 
 ## 📅 Daily Progress Log
 
-### Focus: Resume
-
-#### Today's Accomplishments
-
-* Updated my resume with detailed descriptions of OMTS (Operator & Machine Tracking System) and EstimApp (Railway Project Estimation Management System).
-* Enhanced project responsibilities to accurately represent both frontend and backend development work.
-* Learned the difference between Git and GitHub and understood their roles in software development.
-
-#### 🚀 Next Goal:
-
-* Continue applying for Full Stack Developer positions.
-* Practice DSA and JavaScript interview questions.
-* Build new features in OMTS and EstimApp.
-* Prepare for technical interviews and coding assessments.
+* Practiced JavaScript while loops.
+* Implemented a program to calculate the sum of digits of a number using a while loop.
+* Improved understanding of loop-based number manipulation.
 
 ---
 
